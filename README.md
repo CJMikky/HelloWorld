@@ -1,6 +1,4 @@
 # HelloWorld
 Education 
-
-Hello
-
-It's my firth git-repositery.
+Hi
+It's my firth git-repository.
